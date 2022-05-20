@@ -2,8 +2,11 @@
 
 
 **✅ Just 761 bytes and `lowfun' is ready to pass through a ton of data**
+
 **💠 Supertyping will make using `lowfun' even more useless**
+
 **👍 `lowfun` takes more memory than necessary to make `lowfun` work**
+
 **🔽 Make `lowfun' even lower**
 
 ## Using 👇
