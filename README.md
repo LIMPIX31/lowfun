@@ -1,7 +1,7 @@
 # LowFun => Passthrough your useless data 🙃
 
 
-**✅ Just 761 bytes and `lowfun' is ready to pass through a ton of data**
+**✅ Just 767 bytes and `lowfun' is ready to pass through a ton of data**
 
 **💠 Supertyping will make using `lowfun' even more useless**
 
