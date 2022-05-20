@@ -1,0 +1,9 @@
+{
+  "name": "lowfun",
+  "version": "1.0.0",
+  "description": "Pass-through function",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "LIMPIX31",
+  "license": "MIT"
+}
